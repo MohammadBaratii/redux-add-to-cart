@@ -2,17 +2,18 @@
   <img src="./src/assets/page.png" />
   <h1>Redux Cart</h1>
   <p>
-    My first small react project which i used redux for state management. in the project you can add products to cart, increase and decrease the amount of them. <br />
+    My first small react project which i used redux for state management. In the project you can add products to cart, increase and decrease the amount of them. <br />
     If the product is already in the cart, the amount and price will be increased but if the product is not already in the cart, it will be added to the cart. <br />
     If the product's amount that is in the cart become less than 1, it will be removed from the cart.
   </p>
   <p>
-    I got the inspiration for this project from Academind react course.
+    I made this project based on Academind react course.
   </p>
   <p>
     Edit the codes and let me know if you have more knowledge or better ideas.
   </p>
 </div>
+<hr />
 <div>
   <p>In the project directory, you can run:</p>
   <pre>npm start</pre>
